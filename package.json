@@ -1,0 +1,13 @@
+{
+  "name": "docker_sinopia",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Robert Hawksley <robert.s.hawksley@team.telstra.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
